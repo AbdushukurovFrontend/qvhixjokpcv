@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  font-family: "Protest Revolution", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  padding: 10px 20px;
+  color: wheat;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(255, 60, 0);
+  position: relative;
+}
+.navbar .logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.navbar .logo a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: "Protest Revolution", sans-serif;
+  font-size: 14px;
+}
+.navbar ul {
+  display: flex;
+  gap: 10px;
+}
+.navbar li {
+  cursor: pointer;
+  list-style: none;
+  padding: 10px;
+}
+.navbar li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+}/*# sourceMappingURL=stayle.css.map */
+
+
+
+
+.navbar1 {
+  /* padding: 10px 20px; */
+  color: wheat;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(255, 60, 0);
+  position: relative;
+  gap: 840px;
+  margin-top: -80px;
+  
+}
+.navbar1 .logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.navbar1 .logo a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: "Protest Revolution", sans-serif;
+  font-size: 14px;
+}
+.navbar1 ul {
+  display: flex;
+  gap: 10px;
+}
+.navbar1 li {
+  cursor: pointer;
+  list-style: none;
+  padding: 10px;
+}
+.navbar1 li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+}/*# sourceMappingURL=stayle.css.map */
+
+
