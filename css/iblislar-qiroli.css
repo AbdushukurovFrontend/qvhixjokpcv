@@ -111,3 +111,13 @@ span{
     background: rgb(194, 87, 0);
     color: white;
 }
+.brt{
+    margin-top: -30px;
+    margin-left: 20px;
+    background-color: rgba(245, 112, 46, 0.74);
+    width: 420px;
+    padding: 3px;
+    border-radius: 0 10px 10px 0;
+    color: rgb(122, 0, 0);
+    cursor: pointer;
+}
