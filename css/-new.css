@@ -85,11 +85,10 @@ body {
   border-radius: 0 0 10px 10px;
   position: absolute;
   bottom: -30px;
+  text-align: center
 }
 .card .title a {
   text-decoration: none;
-  position: absolute;
-  left: 30%;
   color: white;
   font-family: "Kalnia", serif;
   font-weight: 100;
